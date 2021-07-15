@@ -14,9 +14,6 @@ Features:
 - Click on the VS Code Icon in there to have a look at the code I have tried to add comments for better understanding.
 
 
-Do follow me on Github (@battleplayer02) and Linkedin (@hshekhar02).
-
-Special thanks to Jasbir Sir and Sumeet Malik Sir for organizing the hackathon.
 
 
 Github:https://github.com/ar1936/Window-xp
